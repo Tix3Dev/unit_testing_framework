@@ -1,7 +1,9 @@
 <div align="center">
 
-<h3>Lightweight and basic unit testing framework written in C</h3>
+<h3>Lightweight unit testing framework written in C</h3>
 <p>Perfect for low level development!</p>
+
+<img src="https://github.com/Tix3Dev/unit_testing_framework/blob/main/screenshot.png"> </a>
 
 </div>
 
